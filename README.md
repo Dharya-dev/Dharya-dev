@@ -92,6 +92,12 @@ I'm actively seeking **software engineering internships** and opportunities to w
 
 ---
 
+## 💰 Support My Work
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/A7ADLWEDCLQ3Y)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dharya-dev&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
